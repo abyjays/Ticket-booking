@@ -46,18 +46,16 @@ body {
 
 .busbookingformbackground{
     position: fixed;
-    left: 3%;
-    margin-top: 15px;
-    padding: 15%;
-    padding-left: 57%;
-    margin-right: 10px;
+    width: 55em;
+    height: 30em;
     box-sizing: border-box;
+    margin-top: 15px;
+    margin-left: 30%;
     border-radius: 25px;
-    background-color: #2d7dd2;
     background-image: linear-gradient(315deg, #2d7dd2 0%, #97cc04 74%);
 }
 .BusTicketBookingheading{
-    
+    /* margin-left: -200px; */
 }
 .busbookingform{
     
